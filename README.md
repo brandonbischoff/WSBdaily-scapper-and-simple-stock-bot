@@ -1,4 +1,4 @@
-# WSBdaily-Scapper-and-Simple-Stock-Bot
+# WSBdaily-Scrapper-and-Simple-Stock-Bot
 A program that scapes WSB Daily website for stocks and tracks them.
 
 Requirments: pandas
